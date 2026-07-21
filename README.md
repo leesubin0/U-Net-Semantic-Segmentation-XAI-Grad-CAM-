@@ -1,11 +1,11 @@
 # U-Net-Semantic-Segmentation-and-XAI-using-Grad-CAM
 Paper: 
-[U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-[Grad-CAM - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017)](https://velog.io/@keepbini366/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Grad-CAM-Grad-CAM-Visual-Explanations-from-Deep-Networks-via-Gradient-based-Localization-2017)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+- [Grad-CAM - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017)](https://velog.io/@keepbini366/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-Grad-CAM-Grad-CAM-Visual-Explanations-from-Deep-Networks-via-Gradient-based-Localization-2017)
 
 Paper Review: 
-[U-Net - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://velog.io/@keepbini366/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-U-Net-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-2015)
-[Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- [U-Net - U-Net: Convolutional Networks for Biomedical Image Segmentation (2015)](https://velog.io/@keepbini366/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-U-Net-U-Net-Convolutional-Networks-for-Biomedical-Image-Segmentation-2015)
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
 
 ---
 ## Semantic Segmentation
